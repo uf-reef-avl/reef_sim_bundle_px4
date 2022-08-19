@@ -8,7 +8,7 @@ git submodule update --init --recursive
 cd ../..
 catkin_make
 ```
-
+![Reef Estimator](reef_estimator.gif)
 
 **Setting Up The Simulation**
 -----------------------------
